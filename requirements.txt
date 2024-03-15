@@ -1,1 +1,3 @@
 english_words==2.0.1
+wordlist==1.0.1
+inquirer==3.2.4

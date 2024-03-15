@@ -14,4 +14,13 @@ pip install -r requirements.txt
 
 ## Packages used
 
-- **`wordlist`** : Generate all the possible words with length within a given interval (e.g. from 2 to 5) [[doc]](https://pypi.org/project/wordlist/)
+- **`inquirer`** : creating user-friendly command-line interfaces.
+It's useful for building interactive CLI applications with prompts and choices. [[doc]](https://pypi.org/project/inquirer/)
+
+
+- **`wordlist`**: contains a collection of words organized in a list format. 
+It's useful for tasks like spell-checking, generating random words, or analyzing language patterns. [[doc]](https://pypi.org/project/wordlist/)
+
+
+- **`english-words`** : focuses on providing a comprehensive list of English words.
+It's handy for projects requiring English language processing, such as text analysis, language learning tools, or word games. [[doc]](https://pypi.org/project/english-words/)
