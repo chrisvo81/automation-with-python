@@ -2,8 +2,9 @@
 
 Automate my daily tasks for me. You may find it helpful!
 
-## Install packages
+## Packages
 
+### Install packages
 To install packages that required to run applications in this repo. Please check the `requirements.txt` and run this line of command
 
 If you have **Python v2**, then use `pip`, but if you have **Python v3**, then use `pip3`.
@@ -12,7 +13,7 @@ If you have **Python v2**, then use `pip`, but if you have **Python v3**, then u
 pip install -r requirements.txt
 ```
 
-## Packages used
+### About packages
 
 - **`inquirer`** : creating user-friendly command-line interfaces.
 It's useful for building interactive CLI applications with prompts and choices. [[doc]](https://pypi.org/project/inquirer/)
